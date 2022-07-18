@@ -1,10 +1,5 @@
-{
-  "f_name" 	: "иВан",
-  "l_name" 	: "ИваноВ",
-  "birthday"	: "1987-03-23",
-  "avatr_url"	: "https://2.cdn.echo.msk.ru/files/avatar2/2561900.jpg",
-  "specialty" : [{
-    "specialty_id" : 101,
-    "name"	: "Менеджер"
-  }]
+{ 
+"peats": "esent", 
+"game":"off",
+"url":"https://www.mail.ru"
 }
